@@ -1,7 +1,5 @@
-    <footer>
-        <p>
-            This is my footer
-        </p>
-    </footer>
-</body>
+
+    <?php get_template_part("template-parts/common/footer_block");?>
+    <?php wp_footer(); ?>
+    </body>
 </html>

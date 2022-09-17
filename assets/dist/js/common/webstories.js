@@ -1,0 +1,1 @@
+let carousel=tns({container:".webstories__container",items:2,fixedWidth:110,gutter:20,center:!0,controls:!1,nav:!1,loop:!0,swipeAngle:!1,navPosition:"bottom",mouseDrag:!0,speed:400,responsive:{768:{gutter:40,fixedWidth:150}}});

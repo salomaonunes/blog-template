@@ -1,3 +1,7 @@
 <?php get_header(); ?>
-    <h1>This is my index</h1>
+
+
+<div class="cetrus">
+</div>
+
 <?php get_footer(); ?>
